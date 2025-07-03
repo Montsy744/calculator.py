@@ -1,0 +1,21 @@
+# __pycache__ et fichiers compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dossier PyInstaller (build et dist)
+build/
+dist/
+*.spec
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers d’environnement
+.env
+
+# Dossiers d’IDE (optionnel)
+.vscode/
+.idea/
